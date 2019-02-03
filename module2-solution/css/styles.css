@@ -17,8 +17,8 @@ h1{
 
 
 section{
-	color:red;
-	background-color: yellow;
+	color:black;
+	background-color: grey;
 	border: 1px black solid;
 	margin-bottom: 15px;
 	float:left;
@@ -41,17 +41,17 @@ div>section>div{
 }
 #til1{
 	color:#000000;
-	background-color:#00FFFF;
+	background-color:#F29CCA;
 	
 }
 #til2{
 	
-	color:#0000FF;
-	background-color:#00FF00;
+	color:#FFFFFF;
+	background-color:#FF0000;
 }
 #til3{
 	color:#000000;
-	background-color:#FFA500;
+	background-color:#E5F273;
 }
 /*desktop view*/
 @media (min-width: 992px) {
