@@ -76,18 +76,18 @@ div>section>div{
 		width:45%;
 	}
 	#t{
-		width:100%
+		width:93%
 	}
 }
 /***mobile view**/
 @media (max-width:767px) {
 	#o{
-		width:90%;
+		width:100%;
 	}
 	#s{
-		width:90%;
+		width:100%;
 	}
 	#t{
-		width:90%
+		width:100%
 	}
 }
