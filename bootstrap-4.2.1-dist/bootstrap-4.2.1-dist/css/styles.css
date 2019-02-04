@@ -1,9 +1,6 @@
-.row{
-	margin-bottom: 15px;
-}
-.row > div{
-	color: red;
-	background-color: gray;
-	border: 2px solid red;
-	width:50%;
+body{
+	font-size: 16px;
+	color:#FFF;
+	background-color: #61122f;
+	font-family:'Poppins', sans-serif;
 }

@@ -82,12 +82,12 @@ div>section>div{
 /***mobile view**/
 @media (max-width:767px) {
 	#o{
-		width:100%;
+		width:90%;
 	}
 	#s{
-		width:100%;
+		width:90%;
 	}
 	#t{
-		width:100%
+		width:90%
 	}
 }
