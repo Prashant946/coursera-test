@@ -1,0 +1,76 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+#header-nav{
+	background-color:#A9A9A9;
+	border-top:2px solid #000;
+	border-bottom:2px solid black;
+	overflow: hidden;
+	width:100%;
+	margin: 0;
+	padding:0;
+}
+.navbar-default a h1{
+	float:left;
+	width:6vw;
+	text-decoration: none;
+	color:#000;
+}
+.navbar-header button.navbar-toggle{
+	border:1px solid black;
+}
+.navbar-header button.navbar-toggle span{
+border:3px solid black;	
+}
+#main-content h1{
+	font-size: 36px;
+	font-weight: bold;
+	font-family: arial helvetica sans-serif;
+}
+.container{
+	padding:0;
+	margin:auto;
+	width:96%;
+}
+.section{
+	background-color:#A9A9A9;
+	width:100%;
+	margin:50px 0 20px 0;
+	overflow:hidden;
+	padding:10px;
+}
+.section span.text-center{
+	width:100%;
+	font-size:26px;
+	float:right;
+	color:black;
+	font-weight:bold;
+	padding:10px;
+}
+#nav-list{
+	text-align: center;
+	font-size: 26px;
+	font-weight: bold;
+	background-color:white;
+	color: #000;
+}
+
+#nav-list a {
+	margin-top: 0;
+	text-decoration: none;
+	}
+ul#nav-list{
+	margin-top: 0;
+	margin-bottom:0;
+}
+#nav-list a:visited{
+	color:black;
+}
+#o{
+	border-top: 2px solid black;
+}
+#o, #s{
+	border-bottom: 2px solid black;
+}
