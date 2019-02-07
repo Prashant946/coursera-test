@@ -9,8 +9,6 @@
 	border-bottom:2px solid black;
 	overflow: hidden;
 	width:100%;
-	margin: 0;
-	padding:0;
 }
 .navbar-default a h1{
 	float:left;
