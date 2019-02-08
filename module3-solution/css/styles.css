@@ -9,12 +9,26 @@
 	border-bottom:2px solid black;
 	overflow: hidden;
 	width:100%;
+	padding-left:15px;
+	height:100px;
+}
+.navbar-brand{
+	font-size:50px;
+	margin-top:15px;
+}
+.navbar-brand a.title{
+text-decoration: none;
+color:#000;
+display: block;
+float: left;
+text-align:center;
+
 }
 .navbar-default a h1{
 	float:left;
-	width:6vw;
 	text-decoration: none;
 	color:#000;
+
 }
 .navbar-header button.navbar-toggle{
 	border:1px solid black;
@@ -71,4 +85,16 @@ ul#nav-list{
 }
 #o, #s{
 	border-bottom: 2px solid black;
+}
+@media (max-width: 530px) {
+	.navbar-brand a.title{
+		font-size:9vw;
+	}
+	
+	}
+h3{
+	font-size: 18px;
+	font-weight: bold;
+	color:#000;
+	font-family: arial helvetica sans-serif;
 }
