@@ -8,7 +8,9 @@ $(function() {
 });
 (function(global){
 	var dc={};
+
 	var homeHtml= "home-snippet.html";
+	
 	var insertHtml=function(selector, html) {
 		var targetElem = document.querySelector(selector);
 		targetElem.innerHTML=html;
